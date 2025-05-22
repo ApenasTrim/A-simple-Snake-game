@@ -7,7 +7,7 @@ You can install it using pip:
 
 pip install pygame
 
-_____________________________
+______________________________
 
 *Português*
 Um jogo simples da cobrinha desenvolvido em Python quando eu tinha 15 anos, durante meu primeiro ano do ensino médio no curso técnico integrado em Informática. Este projeto foi criado nas aulas de Introdução a Algoritmos e representa uma das minhas primeiras experiências com programação e lógica de jogos.
